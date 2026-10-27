@@ -2,8 +2,8 @@
 
 ![Banner](./banner.png)
 
-# ROBIN.md
-## Mridul Ahsan Robin
+# AR ABIR
+## Mridul ahsan Robin
 ### مريدول أحسن روبن
 
 **AI Agent Developer – Riyadh, KSA**  
@@ -19,7 +19,7 @@ Bangladeshi developer building automation tools at AR Tech Company, Oliya Road. 
 `Slack Bolt` • `Node.js` • `OpenAI` • `Termux` • `GitHub`
 
 ### 📌 Projects
-- **[Portfolio](https://ra7049229-byte.github.io)** – ROBIN.DEV
+- **[Portfolio](https://ra7049229-byte.github.io)** – MD ROBIN
 - **[RS-abir](https://github.com/ra7049229-byte/RS-abir)** – AI Agent App
 - **[ar-abir-chat](https://github.com/ra7049229-byte/ar-abir-chat)** – Slack bot
 
