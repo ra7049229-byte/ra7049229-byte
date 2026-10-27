@@ -2,7 +2,7 @@
 
 ![Banner](./banner.png)
 
-# ROBIN.DEV
+# ROBIN.md
 ## Mridul Ahsan Robin
 ### مريدول أحسن روبن
 
