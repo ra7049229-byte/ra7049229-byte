@@ -9,14 +9,14 @@
 **AI Agent Developer – Riyadh, KSA**  
 *مطور وكلاء الذكاء الاصطناعي – الرياض*
 
-Bangladeshi developer building automation tools at AR Tech Company, Oliya Road. I design AI agents with Slack Bolt, Node.js, and OpenAI — shipped entirely from mobile using Termux and GitHub.
+Bangladeshi developer building automation tools at AR Tech Company, Oliya Road. I design AI agents with Slack Bolt, Node.js, and OpenAI — shipped entirely from mobile using GitHub.
 
 </div>
 
 ---
 
 ### 🛠️ Skills
-`Slack Bolt` • `Node.js` • `OpenAI` • `Termux` • `GitHub`
+`Slack Bolt` • `Node.js` • `OpenAI` • `GitHub`
 
 ### 📌 Projects
 - **[Portfolio](https://ra7049229-byte.github.io)** – MD ROBIN
